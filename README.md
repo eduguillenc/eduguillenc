@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo Guillen</h1>
 <h3 align="center">A passionate GIS analyst from Venezuela</h3>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamtekson?style=social)](https://twitter.com/eduguillenc28)
+[![Twitter Follow](https://img.shields.io/twitter/follow/eduguillenc28?style=social)](https://twitter.com/eduguillenc28)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/eduardoeguillen/)
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/eduguillenc)
 
@@ -37,7 +37,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=eduguillenc&&show_icons=true&count_private=true" />
-
 **Visitors Count**
 ![VisitorCount](https://profile-counter.glitch.me/{eduguillenc}/count.svg)
