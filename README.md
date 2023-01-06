@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Eduardo Guillen</h1>
-<h3 align="center">A passionate GIS developer from Venezuela</h3>
+<h3 align="center">A passionate GIS analyst from Venezuela</h3>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/iamtekson?style=social)](https://twitter.com/eduguillenc28)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/eduardoeguillen/)
+[![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/eduguillenc)
 
 - 🔭 I’m currently working on <a href="https://abae.gob.ve" target="_blank" rel="noreferrer">ABAE</a>
-
-- 🌱 I’m currently learning **Python Geospatial Development**
-
+- 🌱 I’m currently learning **Python Geospatial Development and exploring earth observation**
+- 🇻🇪 I’m looking to collaborate on **any geospatial open source projects in Venezuela**
 - 💬 Ask me about **GIS+Javascript+Leaflet+Geoserver+Postgis**
-
-- 📫 How to reach me **eduguicat@gmail.com**
+- 🤔 I’m looking for help with **above mentioned topics**
+- 📫 How to reach me: **eduguicat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,12 +33,11 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=eduguillenc28)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/eduguillenc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eduguillenc" /></a></p><br><br>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
 ---
-[![](https://visitcount.itsvg.in/api?id=eduguillenc&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://github-readme-stats.vercel.app/api?username=eduguillenc&&show_icons=true&count_private=true" />
+
+**Visitors Count**
+![VisitorCount](https://profile-counter.glitch.me/{eduguillenc}/count.svg)
