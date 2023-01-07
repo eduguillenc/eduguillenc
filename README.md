@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on <a href="https://abae.gob.ve" target="_blank" rel="noreferrer">ABAE</a>
 - 🌱 I’m currently learning **Python Geospatial Development and exploring earth observation**
-- 🇻🇪 I’m looking to collaborate on **any geospatial open source projects in Venezuela**
+- :venezuela: I’m looking to collaborate on **any geospatial open source projects in Venezuela**
 - 💬 Ask me about **GIS+Javascript+Leaflet+Geoserver+Postgis**
 - 🤔 I’m looking for help with **above mentioned topics**
 - 📫 How to reach me: **eduguicat@gmail.com**
