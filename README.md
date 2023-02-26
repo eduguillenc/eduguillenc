@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Guillen</h1>
-<h3 align="center">A passionate GIS analyst from Venezuela</h3>
+<h3 align="center">Informatics Engineer </h3>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/eduguillenc28?style=social)](https://twitter.com/eduguillenc28)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/eduardoeguillen/)
