@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/eduardoeguillen/)
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/eduguillenc)
 
-- 🔭 I’m currently working on <a href="https://abae.gob.ve" target="_blank" rel="noreferrer">ABAE</a>
+- 🔭 I’m currently working on <a href="http://www.abae.gob.ve/" target="_blank" rel="noreferrer">ABAE</a>
 - 🌱 I’m currently learning **Python Geospatial Development and exploring earth observation**
 - :venezuela: I’m looking to collaborate on **any geospatial open source projects in Venezuela**
 - 💬 Ask me about **GIS+Javascript+Leaflet+Geoserver+Postgis**
@@ -26,9 +26,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=eduguillenc&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eduguillenc&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduguillenc&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=eduguillenc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=eduguillenc28)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
